@@ -1,0 +1,16 @@
+{
+    "lblUserName":"Username",
+    "lblPassword":"Password",
+    "lblRememberme":"Remember me",
+    "lblForgotPass":"Forgot pwd?",
+    "lblLogin":"LOG IN",
+    "lblDontHaveAnAccount":"Don't have an account?",
+    "lblSignIn":"Sign Up",
+
+    "lblRegisterNow":"Register Now",
+    "lblCreateYourAccount":"Create your account and enjoy",
+    "lblName":"Name",
+    "lblEmail":"Email",
+    "lblConfirmPass":"Confirm Password",
+    "lblAcceptTerms":"I agree to all"
+    }
